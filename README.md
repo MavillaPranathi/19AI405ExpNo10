@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 #### DEVELOPED BY: M.PRANATHI
-#### REG NO: 212222244064
+#### REG NO: 212222240064
 ## AIM:
 To Implementation of Classical Planning Algorithm
 ## Algorithm:
